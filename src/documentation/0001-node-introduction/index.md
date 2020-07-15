@@ -107,3 +107,4 @@ Many of those established over time as popular options. Here is a non-comprehens
 * [**Next.js**](https://nextjs.org/): A framework to render server-side rendered [React](https://reactjs.org/) applications.
 * [**Nx**](https://nx.dev/): A toolkit for full-stack monorepo development using NestJS, Express, [React](https://reactjs.org/), [Angular](https://angular.io), and more! Nx helps scale your development from one team building one application to many teams collaborating on multiple applications!
 * [**Socket.io**](https://socket.io/): A real-time communication engine to build network applications.
+* [**Webpack**](https://webpack.js.org/): webpack is used to compile JavaScript modules. Once installed, you can interface with webpack either from its CLI or API.
